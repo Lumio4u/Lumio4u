@@ -1,5 +1,5 @@
 # <sub>oPacket.WriteString("About me")</sub>
-> <span>As you know my name is <q>Lumio</q></span>
+> <span>As you know my name is <q>Lumio <small>(Moonlight , Mixzis)</small></q></span>
 > 
 > <b>Languages and Tools</b>
 
