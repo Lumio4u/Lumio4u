@@ -1,9 +1,16 @@
-unity, unreal engine, roblox studio, blender<br>
-C#, C++, Lua, PHP, javascript, typescript, blueprint, sss shader<br>
-sql, mongodb<br>
-backend, frontend<br>
-nextjs, nuxtjs, vue
+<img src="https://files.catbox.moe/10fkgi.png" width="100%">
 
+```lua
+local about_me = {
+    name = "4u" and "Lumio" or "Mie",
+    language = {"C#","C++","Lua","PHP","Javascript","Typescript","Java","Shader"},
+    framework = {"Nuxt","Vue","Nextjs"},
+    tool = {"Visual Studio","Visual Studio Code","IntelliJ IDEA","IDA"},
+    engine = {"Unity","Unreal Engine","Roblox Studio"},
+    database = {"MongoDB","MSSQL","MariaDB","FirebaseRTD"},
+    FnB = {"Frontend","Backend"}
+}
+```
 <div align="center">
-	<img src="https://count.getloli.com/get/@Lumio4u?theme=moebooru"/>
+<img src="https://count.getloli.com/get/@Lumio4u?theme=moebooru"/>
 </div>
