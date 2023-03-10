@@ -12,6 +12,6 @@ local about_me = {
 }
 ```
 <div align="center">
-<img src="https://lynse.net/api/399199916553011220"/>
+<img src="https://lynse.net/api/399199916553011220?c=1"/>
 <img src="https://count.getloli.com/get/@Lumio4u?theme=moebooru"/>
 </div>
