@@ -1,4 +1,5 @@
-<img src="https://files.catbox.moe/10fkgi.png" width="100%">
+
+[![Discord Presence](https://lynse.net/api/399199916553011220)](https://discord.com/users/399199916553011220)
 
 ```lua
 local about_me = {
@@ -11,7 +12,9 @@ local about_me = {
     FnB = {"Frontend","Backend"}
 }
 ```
+
+
 <div align="center">
-<img src="https://lynse.net/api/399199916553011220?c=1"/>
 <img src="https://count.getloli.com/get/@Lumio4u?theme=moebooru"/>
 </div>
+
